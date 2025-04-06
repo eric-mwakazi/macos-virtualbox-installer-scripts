@@ -93,4 +93,5 @@ Supported versions:
 ## RESOURCES 
 * Computingforgeeks:[https://computingforgeeks.com/install-macos-big-sur-catalina-on-virtualbox/](https://computingforgeeks.com/install-macos-big-sur-catalina-on-virtualbox/)
 * Medium: [https://hkdb.medium.com/running-macos-in-virtualbox-with-ubuntu-31ec745f21ae](https://hkdb.medium.com/running-macos-in-virtualbox-with-ubuntu-31ec745f21ae)
-
+* GITHUB: [https://github.com/hkdb/VBoxMacSetup](https://github.com/hkdb/VBoxMacSetup)
+* Najigram: [https://najigram.com/2022/01/run-macos-in-virtualbox-on-linux-os/](https://najigram.com/2022/01/run-macos-in-virtualbox-on-linux-os/)

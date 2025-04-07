@@ -95,3 +95,4 @@ Supported versions:
 * Medium: [https://hkdb.medium.com/running-macos-in-virtualbox-with-ubuntu-31ec745f21ae](https://hkdb.medium.com/running-macos-in-virtualbox-with-ubuntu-31ec745f21ae)
 * GITHUB: [https://github.com/hkdb/VBoxMacSetup](https://github.com/hkdb/VBoxMacSetup)
 * Najigram: [https://najigram.com/2022/01/run-macos-in-virtualbox-on-linux-os/](https://najigram.com/2022/01/run-macos-in-virtualbox-on-linux-os/)
+* macOS Catalina 10.15.5 (19F101) iso file: [https://www.mediafire.com/file/2mwxpooe0da6z3n/Catalina_10.15.5.iso/file](https://www.mediafire.com/file/2mwxpooe0da6z3n/Catalina_10.15.5.iso/file)
